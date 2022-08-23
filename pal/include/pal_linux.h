@@ -1,0 +1,5 @@
+enum sgx_attestation_type {
+    SGX_ATTESTATION_NONE,
+    SGX_ATTESTATION_EPID,
+    SGX_ATTESTATION_DCAP
+};

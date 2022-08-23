@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdnoreturn.h": "c",
+        "stdbool.h": "c",
+        "errno.h": "c",
+        "host_internal.h": "c",
+        "api.h": "c",
+        "stdarg.h": "c",
+        "stdio.h": "c",
+        "linux_utils.h": "c",
+        "syscall.h": "c"
+    }
+}
